@@ -1,0 +1,9 @@
+	NEVAscythe: {
+		DisplayName: The Great Inanitas
+		Tooltip:
+			'''
+			[c/aae5a4:When there's brightest star in the sky... Why not Divide and Conquer it?]
+			[c/aae5a4:Make no mistake, this fight won't be easy. But at least it will be fair]
+			[c/BD1816:Don't fucking break reality with this. Understood?]
+			[i:4910] Rented Scythe [i:4910]
+			'''
